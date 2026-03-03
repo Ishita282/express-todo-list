@@ -1,0 +1,20 @@
+{
+  "name": "assignment-7",
+  "version": "1.0.0",
+  "description": ">> GET: Get all tasks\r     >> POST: Create a task\r     >> DELETE: Delete all tasks",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
